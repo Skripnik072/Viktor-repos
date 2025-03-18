@@ -8,4 +8,4 @@ def filter_lists(mylist1: list[int], mylist2: list[int]) -> list[int]:
 
 
 print(filter_lists([1, 2, 3, 4], [3, 4, 5, 6]))
-# изменения
+# изменения пробные внесены
